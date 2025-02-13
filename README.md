@@ -79,7 +79,7 @@ This project is open-source under the **MIT License**.
 ---
 
 ## 📧 Contact
-For any inquiries, contact **[Your Name]** at **your-email@example.com**.
+For any inquiries, contact **[MUBARAK MUHAMMAD MANI]** at **mubammani@gmail.com**.
 
 ---
 
